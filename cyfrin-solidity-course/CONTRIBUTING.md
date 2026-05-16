@@ -93,7 +93,7 @@ fix: fix CEI ordering in FundMe withdraw by Abdu
 |------|--------|---------------|
 | Abdu Ahmed Mohammed | [@abbudy](https://github.com/abbudy) |UGR/30024/15, All modules, contracts, notes |
 | Abdurahman Aliyi |learn-solidity-alchemy-master/screnshoots/completed certificate.jpg | UGR/30040/15 |
-| Faysel Abdella   | | UGR/25435/14 |
+| Faysel Abdella   | https://github.com/abbudy/cyfrin-solidity-course/tree/main/learn-solidity-alchemy-master/screnshoots| UGR/25435/14 |
 | Esmail Shikur    |learn-solidity-alchemy-master/screnshoots/finish.png | UGR/30480/15 |
 | Fasil Hawultie   | learn-solidity-alchemy-master/screnshoots/Fasil Hawultie Completed.jpg| UGR/25578/14|
 

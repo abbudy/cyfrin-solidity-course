@@ -19,7 +19,11 @@
 | Name | GitHub | Contributions |
 |------|--------|---------------|
 | Abdu Ahmed Mohammed | [@abbudy](https://github.com/abbudy) | All modules, contracts, notes |
-| Esmail Shikur  | [@abbudy](https://github.com/abbudy) | All modules, contracts, notes |
+| Abdurahman Aliyi | | UGR/30040/15 |
+| Faysel Abdella   | | UGR/25435/14 |
+| Esmail Shikur    | | UGR/30480/15 |
+| Fasil Hawultie   | | UGR/25578/14|
+
 
 ---
 

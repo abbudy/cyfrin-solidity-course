@@ -86,8 +86,6 @@ fix: fix CEI ordering in FundMe withdraw by Abdu
 
 ---
 
-## Team Members
-
 ## 👥 Contributors
 
 | Name | GitHub | Contributions |ID|

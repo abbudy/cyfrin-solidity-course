@@ -14,6 +14,15 @@
 
 ---
 
+## 👥 Contributors
+
+| Name | GitHub | Contributions |
+|------|--------|---------------|
+| Abdu Ahmed Mohammed | [@abbudy](https://github.com/abbudy) | All modules, contracts, notes |
+| Esmail Shikur  | [@abbudy](https://github.com/abbudy) | All modules, contracts, notes |
+
+---
+
 ## 🏆 Certificates of Completion
 
 | Certificate | Platform | Status |
@@ -157,13 +166,7 @@ See [`/resources`](./resources/) for:
 
 ---
 
-## 👥 Contributors
 
-| Name | GitHub | Contributions |
-|------|--------|---------------|
-| Abdu Ahmed Mohammed | [@abbudy](https://github.com/abbudy) | All modules, contracts, notes |
-
----
 
 ## 📜 License
 
